@@ -1,9 +1,13 @@
-The [developer meetup] caters to people who want to get a little more technical with their WordPress knowledge. Developers who are developing themes and plugins for WordPress, who are building client sites, and who are excited by the idea of getting deeper into the WordPress ecosystem.
+This is a template that may inspire the text for your local meetup group page.
 
-We also often cover issues of business ownership, marketing and freelancing as a large contingent of our membership are running freelance business and small agencies doing WordPress for clients.
+Feel free to copy and paste this template and customise it for your area.
 
-We'd love to see you if you're a developer diving into WordPress, are building WordPress sites for client or are just wanting to take your knowledge of WordPress to the next level and are keen to get just that little bit more technical about what goes on under the hood.
+The WordPress [your-town] User Group caters to people who want to get a little more technical with their WordPress knowledge. Developers who are developing themes and plugins for WordPress, who are building client sites, and who are excited by the idea of getting deeper into the WordPress ecosystem.
 
-Also? If you're looking for a developer to work with on a project, it's a great place to meet people and come and see if you can find a valuable connection here.
+The WordPress [your-town] User Group often cover issues of business ownership, marketing and freelancing as a large contingent of our membership are running freelance business and small agencies doing WordPress for clients.
 
-Hope to see you soon!
+The WordPress [your-town] User Group focuses on design and user experience. We welcome anyone who is interested in discussing and solving user-facing issues. 
+
+Also? If you're looking for someone to work with on a project, it's a great place to meet people and come and see if you can find a valuable connection here.
+
+If any of this sounds like you we'd love to see you at our next meetup. Hope to see you soon!
